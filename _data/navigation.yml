@@ -3,17 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research"
+  - title: "Portfolio"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
-  - title: "Software"
-    url: /software/
+  # - title: "Software"
+  #   url: /software/
 
   - title: "Posts"
     url: /posts/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Photography"
+    url: /photography/
